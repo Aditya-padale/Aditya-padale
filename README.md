@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Artificial Intelligence Engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-padale&label=👀+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya-padale&label=👀+Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -11,16 +11,19 @@
 - 🤝 Looking to collaborate on **LangChain** and **AI-based applications**
 - 💬 Ask me about **Python, DSA, Data Analytics**
 - 📫 Reach me at: **adityapadale25@gmail.com**
-- 🌐 Portfolio: *(Add your portfolio link here if available)*
+- 🌐 GitHub: [Aditya-padale](https://github.com/Aditya-padale)
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="mailto:adityapadale25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/aditya-padale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/aditya-padale" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:adityapadale25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Aditya-padale" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -48,13 +51,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-padale&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-padale&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-padale&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-padale&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-padale&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-padale&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---
