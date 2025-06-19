@@ -1,10 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Hi+👋,+I'm+Aditya+Padale;AI+Engineer+%7C+Python+%7C+Data+Scientist;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1200&color=FABD2F&center=true&vCenter=true&width=1100&height=100&lines=++Hi+%F0%9F%91%8B%2C+I'm+Aditya+Padale++;++AI+Engineer++;++Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+<br>
 
-<h3 align="center">🚀 Passionate Artificial Intelligence Engineer from India</h3>
-
-## 🧠 About Me
+## About Me
 
 - 🌱 Currently exploring **Generative AI**
 - 🤖 Learning & building with **LangChain**
@@ -12,45 +11,49 @@
 - 📧 Reach me: [adityapadale25@gmail.com](mailto:adityapadale25@gmail.com)
 - 🌐 GitHub: [Aditya-padale](https://github.com/Aditya-padale)
 
----
+<br>
 
-## ⚒️ Languages & Tools
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn"/>
-</p>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 📈 GitHub Stats
+![LangChain](https://img.shields.io/badge/LangChain-%23009688.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF6F61.svg?style=for-the-badge&logo=llama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-padale&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-padale&layout=compact&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-padale&theme=highcontrast" width="80%" />
-</p>
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚧 Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="200" />
-</p>
+<br>
+
+## 📊 Power Statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-padale&theme=vision_friendly_dark&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-padale&theme=gruvbox&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-padale&theme=gruvbox&hide_border=true&background=FFFFFF00" />
+</div>
+
+<br>
+
+## 🚀 Projects
 
 ### 📸 [InstaVibe](https://instavibe.streamlit.app/)
 
@@ -61,19 +64,15 @@
 
 ### 🎥 [AI-GenStream](https://ai-genstream.streamlit.app/)
 
-> 🎨 **AI-GenStream** is a powerful Multimodal content leveraging **LangChain**, **Gemini**, and **Streamlit**.  
-> 📸 Create high-quality Multimodal content from prompts using cutting-edge GenAI tools.  
+> 🎨 **AI-GenStream** is a powerful image and video generator leveraging **LangChain**, **Gemini**, and **Streamlit**.  
+> 📸 Create high-quality Multimedia content also analyzes it from prompts using cutting-edge GenAI tools.  
 > 🔗 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
 > 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
 
----
-
-> 💡 More exciting AI and Full-Stack projects coming soon. Stay tuned!
-
----
+<br>
 
 ## 💡 Quote I Live By
 
 > *“AI won’t replace you — a person using AI will.”*
 
----
+<br>
