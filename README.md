@@ -61,8 +61,8 @@
 
 ### 🎥 [AI-GenStream](https://ai-genstream.streamlit.app/)
 
-> 🎨 **AI-GenStream** is a powerful image and video generator leveraging **LangChain**, **Gemini**, and **Streamlit**.  
-> 📸 Create high-quality images or video sequences from prompts using cutting-edge GenAI tools.  
+> 🎨 **AI-GenStream** is a powerful Multimodal content leveraging **LangChain**, **Gemini**, and **Streamlit**.  
+> 📸 Create high-quality Multimodal content from prompts using cutting-edge GenAI tools.  
 > 🔗 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
 > 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
 
@@ -77,7 +77,3 @@
 > *“AI won’t replace you — a person using AI will.”*
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
