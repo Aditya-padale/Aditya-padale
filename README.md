@@ -40,7 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 <br>
 
 ## 📊 Power Statistics
@@ -66,10 +65,19 @@
 
 ### 🎥 [AI-GenStream](https://ai-genstream.streamlit.app/)
 
-> 🎨 **AI-GenStream** is a powerful image and video generator leveraging **LangChain**, **Gemini**, and **Streamlit**.  
-> 📸 Create high-quality Multimedia content also analyzes it from prompts using cutting-edge GenAI tools.  
+> ✨ **AI-GenStream** lets you analyze, transcribe, and transform images, audio, video, and documents — all in real-time using Gemini 1.5!  
+> 🧠 Built with **Streamlit**, **LangChain**, and **Gemini Pro**, it fuses vision, audio, and text intelligence into one seamless interface!  
+> 🚀 Upload media, ask questions, and explore — no complex inputs, just smart results!  
 > 🔗 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
 > 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
+
+### 🧮 [AI Calculator Canvas](https://ai-calculator-canvas.streamlit.app/)
+
+> ✏️ **AI Calculator Canvas** lets you draw any math/physics/chemistry problem or even real-world objects, and Gemini will interpret and solve it in real-time.  
+> 🎯 Inspired by Apple’s Math Notes, this is built using **Streamlit**, **LangChain**, and **Gemini Pro Vision**.  
+> 🚀 Draw, press Enter, and get smart answers — no typing needed!  
+> 🔗 **Live Demo**: [ai-calculator-canvas.streamlit.app](https://ai-calculator-canvas.streamlit.app)  
+> 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-Calculator](https://github.com/Aditya-padale/AI-Calculator)
 
 <br>
 
