@@ -45,11 +45,13 @@
 
 ## 📊 Power Statistics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-padale&theme=vision_friendly_dark&bg_color=00000000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-padale&theme=gruvbox&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-padale&theme=gruvbox&hide_border=true&background=FFFFFF00" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-padale&theme=gruvbox" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-padale&theme=gruvbox" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-padale&theme=gruvbox" />
+</p>
 
 <br>
 
