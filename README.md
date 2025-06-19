@@ -2,13 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Hi+👋,+I'm+Aditya+Padale;AI+Engineer+%7C+Python+%7C+Data+Scientist;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
 </h1>
 
-<h3 align="center">🚀 Passionate Artificial Intelligence Engineer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-padale&label=👀+Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
----
+<h3 align="center">🚀 Passionate Artificial Intelligence Engineer from India</h3>
 
 ## 🧠 About Me
 
@@ -17,19 +11,6 @@
 - 💬 Ask me about: **Python, DSA, Data Analytics**
 - 📧 Reach me: [adityapadale25@gmail.com](mailto:adityapadale25@gmail.com)
 - 🌐 GitHub: [Aditya-padale](https://github.com/Aditya-padale)
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:adityapadale25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Aditya-padale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
@@ -77,6 +58,13 @@
 > ✨ Instantly create attractive bios for social media or professional profiles with a click!  
 > 🔗 **Live Demo**: [instavibe.streamlit.app](https://instavibe.streamlit.app)  
 > 💻 **GitHub Repo**: [github.com/Aditya-padale/Instavibe](https://github.com/Aditya-padale/Instavibe)
+
+### 🎥 [AI-GenStream](https://ai-genstream.streamlit.app/)
+
+> 🎨 **AI-GenStream** is a powerful image and video generator leveraging **LangChain**, **Gemini**, and **Streamlit**.  
+> 📸 Create high-quality images or video sequences from prompts using cutting-edge GenAI tools.  
+> 🔗 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
+> 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
 
 ---
 
