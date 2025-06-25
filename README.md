@@ -56,33 +56,32 @@
 
 ## 🚀 Projects
 
-### 📸 [InstaVibe](https://instavibe.streamlit.app/)
+### 🔷 AI Website Builder Agent
+> 🧠 Generate complete, responsive websites from simple prompts using Gemini AI.  
+> ⚙️ Built with FastAPI + LangChain + Gemini 1.5.  
+> 🌐 **Live Demo**: [ai-website-builder-agent-3.onrender.com](https://ai-website-builder-agent-3.onrender.com)  
+> 💻 **GitHub**: [github.com/Aditya-padale/AI-Website-Builder-Agent](https://github.com/Aditya-padale/AI-Website-Builder-Agent)
 
-> 🧠 **InstaVibe** is an AI-powered bio generator built using **Streamlit** and **LangChain**.  
-> ✨ Instantly create attractive bios for social media or professional profiles with a click!  
-> 🔗 **Live Demo**: [instavibe.streamlit.app](https://instavibe.streamlit.app)  
-> 💻 **GitHub Repo**: [github.com/Aditya-padale/Instavibe](https://github.com/Aditya-padale/Instavibe)
+### 📸 InstaVibe
+> ✨ AI-powered bio generator for social & professional platforms.  
+> 🧠 Built with Streamlit and LangChain for instant personality-based outputs.  
+> 🌐 **Live Demo**: [instavibe.streamlit.app](https://instavibe.streamlit.app)  
+> 💻 **GitHub**: [github.com/Aditya-padale/Instavibe](https://github.com/Aditya-padale/Instavibe)
 
-### 🎥 [AI-GenStream](https://ai-genstream.streamlit.app/)
+### 🎥 AI-GenStream
+> 🎯 Real-time AI assistant for analyzing media (audio, video, PDFs, etc.).  
+> 🧩 Combines Streamlit, Gemini 1.5, and LangChain into one intelligent app.  
+> 🌐 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
+> 💻 **GitHub**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
 
-> ✨ **AI-GenStream** lets you analyze, transcribe, and transform images, audio, video, and documents — all in real-time using Gemini 1.5!  
-> 🧠 Built with **Streamlit**, **LangChain**, and **Gemini Pro**, it fuses vision, audio, and text intelligence into one seamless interface!  
-> 🚀 Upload media, ask questions, and explore — no complex inputs, just smart results!  
-> 🔗 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
-> 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
-
-### 🧮 [AI Calculator Canvas](https://ai-calculator-canvas.streamlit.app/)
-
-> ✏️ **AI Calculator Canvas** lets you draw any math/physics/chemistry problem or even real-world objects, and Gemini will interpret and solve it in real-time.  
-> 🎯 Inspired by Apple’s Math Notes, this is built using **Streamlit**, **LangChain**, and **Gemini Pro Vision**.  
-> 🚀 Draw, press Enter, and get smart answers — no typing needed!  
-> 🔗 **Live Demo**: [ai-calculator-canvas.streamlit.app](https://ai-calculator-canvas.streamlit.app)  
-> 💻 **GitHub Repo**: [github.com/Aditya-padale/AI-Calculator](https://github.com/Aditya-padale/AI-Calculator)
+### 🧮 AI Calculator Canvas
+> ✏️ Draw math/physics/chemistry problems—Gemini Vision solves them!  
+> 🧠 Inspired by Apple’s Math Notes, built with Streamlit and LangChain.  
+> 🌐 **Live Demo**: [ai-calculator-canvas.streamlit.app](https://ai-calculator-canvas.streamlit.app)  
+> 💻 **GitHub**: [github.com/Aditya-padale/AI-Calculator](https://github.com/Aditya-padale/AI-Calculator)
 
 <br>
 
 ## 💡 Quote I Live By
 
 > *“AI won’t replace you — a person using AI will.”*
-
-<br>
