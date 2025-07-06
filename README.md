@@ -84,4 +84,4 @@
 
 ## 💡 Quote I Live By
 
-> *“AI won’t replace you — a person using AI will.”*
+> *“It worked on my machine, so it’s your problem now...”*
