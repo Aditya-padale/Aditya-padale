@@ -9,7 +9,7 @@
 - 🤖 Learning & building with **LangChain**
 - 💬 Ask me about: **Python, DSA, Data Analytics**
 - 📧 Reach me: [adityapadale25@gmail.com](mailto:adityapadale25@gmail.com)
-- 🧑‍💻 Portfolio: [aditya-portfolio-25.vercel.app](https://aditya-portfolio-25.vercel.app)
+- 🧑‍💻 Portfolio: [aditya.com](https://adityapadale.vercel.app/)
 
 <br>
 
