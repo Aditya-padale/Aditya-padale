@@ -1,87 +1,185 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=500&size=45&pause=1200&color=FABD2F&center=true&vCenter=true&width=1100&height=100&lines=++Hi+%F0%9F%91%8B%2C+I'm+Aditya+Padale++;++AI+Engineer++;++Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
-<br>
+<div align="center">
 
-## About Me
+# नमस्ते 🙏, I'm **Aditya Padale**
 
-- 🌱 Currently exploring **Generative AI**
-- 🤖 Learning & building with **LangChain**
-- 💬 Ask me about: **Python, DSA, Data Analytics**
-- 📧 Reach me: [adityapadale25@gmail.com](mailto:adityapadale25@gmail.com)
-- 🧑‍💻 Portfolio: [aditya.com](https://adityapadale.vercel.app/)
+### _AI Engineer • Problem Solver • Professional Debugger of My Own Bugs_
 
-<br>
+---
 
-## 💻 Tech Stack
+</div>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 👨‍💻 **About Me**
 
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+> _"I teach machines to think… and they still make more mistakes than I do."_
 
-![LangChain](https://img.shields.io/badge/LangChain-%23009688.svg?style=for-the-badge&logo=semanticweb&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF6F61.svg?style=for-the-badge&logo=llama&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
+I'm a passionate **AI & Data Science Engineer** who loves experimenting with **Generative AI**, **LangChain**, and every cool AI tool I can get my hands on.  
+Currently building AI-powered tools that range from _actually useful_ to _“why does this even exist?”_ levels of creativity.  
+
+---
+
+## 🚀 **What I'm Up To**
+
+<table>
+<tr>
+<td width="50%">
+
+🔭 **Currently working on**  
+> An AI that can code… but still asks me for help.
+
+🌱 **Learning**  
+> LangChain, LLM fine-tuning, and the dark art of prompt engineering.
+
+👯 **Looking to collaborate on**  
+> AI tools that are over-engineered just enough to impress recruiters.
+
+</td>
+<td width="50%">
+
+🤝 **Seeking opportunities in**  
+> AI, ML, and any project that lets me say “This took me 2 hours” when it really took 2 weeks.
+
+💬 **Ask me about**  
+> How to make AI give the wrong answer with confidence.
+
+⚡ **Fun fact**  
+> My GPU is hotter than my chai most of the time.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+<a href="mailto:adityapadale25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/aditya-padale">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://adityapadale.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **Languages My Code Speaks**
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-padale&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</td>
+<td width="50%" align="center">
+
+### **Proof I Actually Know DSA**
+<a href="https://leetcode.com/u/aditya_padale/">
+<img src="https://leetcard.jacoblin.cool/aditya_padale?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  
+### **GitHub History in One Picture**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-padale&theme=tokyonight" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### **Contribution Streak**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-padale&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</td>
+<td width="50%" align="center">
+
+### **Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-padale&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎯 **Featured Projects**
+
+<div align="center">
+
+| 🌟 **Project**              | 📝 **Description** | 🔗 **Live Demo** |
+| :-------------------------: | :----------------: | :--------------: |
+| **AI Website Builder Agent** | AI that builds full responsive websites from prompts using **Gemini AI + LangChain**. | [🚀 Live](https://ai-website-builder-agent-3.onrender.com) |
+| **InstaVibe**                | AI-powered bio generator for social & professional platforms. | [✨ Try Now](https://instavibe.streamlit.app) |
+| **AI-GenStream**             | Real-time AI assistant for analyzing media files. | [🎥 Explore](https://ai-genstream.streamlit.app) |
+| **AI Calculator Canvas**     | Draw problems, let AI solve them like magic. | [🧮 Use It](https://ai-calculator-canvas.streamlit.app) |
+
+</div>
+
+---
+
+## 💻 **Tech Arsenal**
+
+<div align="center">
+
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **AI & ML Tools**
+![LangChain](https://img.shields.io/badge/LangChain-009688?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+### **Frameworks & Libraries**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
 
-<br>
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
 
-## 📊 Power Statistics
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-padale&theme=gruvbox" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-padale&theme=gruvbox" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-padale&theme=gruvbox" />
-</p>
+---
 
-<br>
+## 💭 **Daily Inspiration**
 
-## 🚀 Projects
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</div>
 
-### 🔷 AI Website Builder Agent
-> 🧠 Generate complete, responsive websites from simple prompts using Gemini AI.  
-> ⚙️ Built with FastAPI + LangChain + Gemini 1.5.  
-> 🌐 **Live Demo**: [ai-website-builder-agent-3.onrender.com](https://ai-website-builder-agent-3.onrender.com)  
-> 💻 **GitHub**: [github.com/Aditya-padale/AI-Website-Builder-Agent](https://github.com/Aditya-padale/AI-Website-Builder-Agent)
+---
 
-### 📸 InstaVibe
-> ✨ AI-powered bio generator for social & professional platforms.  
-> 🧠 Built with Streamlit and LangChain for instant personality-based outputs.  
-> 🌐 **Live Demo**: [instavibe.streamlit.app](https://instavibe.streamlit.app)  
-> 💻 **GitHub**: [github.com/Aditya-padale/Instavibe](https://github.com/Aditya-padale/Instavibe)
+<div align="center">
 
-### 🎥 AI-GenStream
-> 🎯 Real-time AI assistant for analyzing media (audio, video, PDFs, etc.).  
-> 🧩 Combines Streamlit, Gemini 1.5, and LangChain into one intelligent app.  
-> 🌐 **Live Demo**: [ai-genstream.streamlit.app](https://ai-genstream.streamlit.app)  
-> 💻 **GitHub**: [github.com/Aditya-padale/AI-GenStream](https://github.com/Aditya-padale/AI-GenStream)
+**Let’s create something weird, useful, or weirdly useful together.** 🚀  
 
-### 🧮 AI Calculator Canvas
-> ✏️ Draw math/physics/chemistry problems—Gemini Vision solves them!  
-> 🧠 Inspired by Apple’s Math Notes, built with Streamlit and LangChain.  
-> 🌐 **Live Demo**: [ai-calculator-canvas.streamlit.app](https://ai-calculator-canvas.streamlit.app)  
-> 💻 **GitHub**: [github.com/Aditya-padale/AI-Calculator](https://github.com/Aditya-padale/AI-Calculator)
+_Made with lots of ☕ and occasional debugging tears._
 
-<br>
-
-## 💡 Quote I Live By
-
-> *“It worked on my machine, so it’s your problem now...”*
+</div>
