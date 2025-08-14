@@ -12,7 +12,7 @@
 
 > _"I teach machines to think… and they still make more mistakes than I do."_
 
-I'm a passionate **AI & Data Science Engineer** who loves experimenting with **Generative AI**, **LangChain**, and every cool AI tool I can get my hands on.  
+I'm a passionate **AI & Data Science Engineer** who loves experimenting with **Generative AI**, **Machine Learning**, and every cool AI tool I can get my hands on.  
 Currently building AI-powered tools that range from _actually useful_ to _“why does this even exist?”_ levels of creativity.  
 
 ---
@@ -27,7 +27,7 @@ Currently building AI-powered tools that range from _actually useful_ to _“why
 > An AI that can code… but still asks me for help.
 
 🌱 **Learning**  
-> LangChain, LLM fine-tuning, and the dark art of prompt engineering.
+> Machine Learning, LLM fine-tuning, and the dark art of prompt engineering.
 
 👯 **Looking to collaborate on**  
 > AI tools that are over-engineered just enough to impress recruiters.
