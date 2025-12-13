@@ -57,7 +57,7 @@ Currently building AI-powered tools that range from _actually useful_ to _“why
 <a href="mailto:adityapadale25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/aditya-padale">
+<a href="linkedin.com/in/aditya-padale-alp">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://adityapadale.vercel.app">
