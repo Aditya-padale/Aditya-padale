@@ -124,14 +124,15 @@ Currently building AI-powered tools that range from _actually useful_ to _“why
 
 <div align="center">
 
-| 🌟 **Project**              | 📝 **Description** | 🔗 **Live Demo** |
-| :-------------------------: | :----------------: | :--------------: |
-| **AI Website Builder Agent** | AI that builds full responsive websites from prompts using **Gemini AI + LangChain**. | [🚀 Live](https://ai-website-builder-agent-3.onrender.com) |
-| **InstaVibe**                | AI-powered bio generator for social & professional platforms. | [✨ Try Now](https://instavibe.streamlit.app) |
-| **AI-GenStream**             | Real-time AI assistant for analyzing media files. | [🎥 Explore](https://ai-genstream.streamlit.app) |
-| **AI Calculator Canvas**     | Draw problems, let AI solve them like magic. | [🧮 Use It](https://ai-calculator-canvas.streamlit.app) |
+| 🌟 **Project** | 📝 **Description** | 🔗 **Live Demo** |
+|---------------|-------------------|-----------------|
+| **AI Website Builder Agent** | AI that builds full responsive websites from prompts using **Gemini AI + LangChain**. | [🚀 Live](https://github.com/Aditya-padale/website-generator) |
+| **Satellite Land Use Detection** | Advanced satellite image analysis platform using computer vision and deep learning to detect land use changes and predict environmental impacts. | [✨ Try Now](https://github.com/Aditya-padale/ML-MICRO) |
+| **Edvanta** | Modular AI-powered learning platform with document summarization, intelligent Q&A chatbot, quiz generation, roadmap creation, and resume analysis. Built with **React + Flask**. | [🎥 Explore](https://github.com/Aditya-padale/Edvanta) |
+| **Discovery Event Website** | Modern, responsive website for **Discovery 2K25**, the National Level Technical Festival at ADCET, Ashta. | [🧮 Visit](https://discovery.adcet.ac.in/) |
 
 </div>
+
 
 ---
 
