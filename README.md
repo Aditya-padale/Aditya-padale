@@ -2,6 +2,10 @@
 
 # नमस्ते 🙏, I'm **Aditya Padale**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-padale/Aditya/main/assets/space-shooter.gif" alt="Space Shooter GitHub Activity GIF" />
+</p>
+
 ### _AI Engineer • Problem Solver • Professional Debugger of My Own Bugs_
 
 ---
